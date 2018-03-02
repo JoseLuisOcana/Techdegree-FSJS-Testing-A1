@@ -1,1 +1,1 @@
-# Techdegree-FSJS-Testing-A1
+# Techdegree FSJS Testing-A1
